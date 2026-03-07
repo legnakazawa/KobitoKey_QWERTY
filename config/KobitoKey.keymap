@@ -50,8 +50,8 @@
             bindings = <
 &kp ESCAPE  &kp N7  &kp N8  &kp N9     &trans     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UP        &trans     &kp DELETE
 &kp GRAVE   &kp N4  &kp N5  &kp N6     &kp LCTRL  &kp LEFT_ARROW        &kp DOWN_ARROW         &kp UP_ARROW  &kp RIGHT  &kp EQUAL
-&trans      &kp N1  &kp N2  &kp N3     &trans     &kp ASTRK             &kp SLASH              &kp LBKT      &kp RBKT   &kp BACKSLASH
-&trans      &kp N0  &trans  &kp LSHFT  &trans     &trans                &trans                 &trans        &trans     &trans
+&trans      &kp N1  &kp N2  &kp N3     &trans     &kp ASTRK             &kp SLASH              &kp LBKT      &kp RBKT   &kp SQT
+&trans      &kp N0  &trans  &kp LSHFT  &trans     &trans                &trans                 &trans        &trans     &kp BACKSLASH
             >;
         };
 
